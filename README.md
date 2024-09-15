@@ -1,1 +1,1 @@
-# WaveNet-for-EEG-signals
+# CHB-MIT eeg dataset seizure detection
